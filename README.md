@@ -1,6 +1,6 @@
-# Implementing paging in ASP.NET Core with page number and page
+# Implementing paging in ASP.NET Core with page number and page index and total number of items
  
- Add PaginatedList.cs to asp.net core project to store page number and page size in the query parameters.
+ Add PaginatedList.cs to asp.net core project to store page number and page size and total number of items in the query parameters.
  
  
  ## Default Paging:
