@@ -1,6 +1,7 @@
-# hello-world
-first repository
-
-I will try to build a website.
-
-I would like to add a new paragraph.
+# implement paging in ASP.NET Core with page number and page
+ 
+ Add PaginatedList.cs to asp.net core project to store page number and page size in the query parameters.
+ 
+ Default Paging:
+ 
+ Paging with  page number and page size:
